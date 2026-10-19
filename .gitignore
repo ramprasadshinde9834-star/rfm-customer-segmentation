@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Raw data (large, download separately)
+data/*.xlsx
+data/*.csv
+!data/.gitkeep
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
